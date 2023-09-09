@@ -2,4 +2,4 @@
 
 This program generates the Star of David pattern for any odd input.
 
-![Star of David Pattern](StarOfDavid.png)
+![Star of David Pattern](StarOfDavid.PNG)
